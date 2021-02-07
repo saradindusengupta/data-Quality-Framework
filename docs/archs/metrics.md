@@ -2,6 +2,7 @@
 
 - Event Data Loss
   - There are gaps in the event data/time-series
+  
 - Short Data History
   - Insufficient data for analysis
 - Aggregated Data

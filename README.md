@@ -1,2 +1,2 @@
-# Data Quality Check library for Time Series Data
-Library to check the validity of time series data and further analysis.
+# Data Quality Management and Analysis
+Understand data quality issues for time-series data.
